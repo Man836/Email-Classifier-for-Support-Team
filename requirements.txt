@@ -1,0 +1,10 @@
+gradio
+flask
+pandas
+scikit-learn
+spacy
+nltk
+regex
+joblib
+
+
